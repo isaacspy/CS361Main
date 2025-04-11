@@ -1,1 +1,1 @@
-# CS361Main
+# This will be the main program for the cs 361 course
