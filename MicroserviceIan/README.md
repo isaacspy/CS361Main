@@ -63,3 +63,4 @@ data = {
 
 UML Diagram:
 
+![UML](https://github.com/user-attachments/assets/2a6f6916-b5b1-4659-9ba9-0f1740c6b7d6)
